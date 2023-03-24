@@ -48,7 +48,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"http://clipart-library.com/images_k/transparent-clothing-pics/transparent-clothing-pics-5.png",
     },
     {
       id:3,
@@ -56,7 +56,7 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"http://clipart-library.com/new_gallery/22-227266_png-purple-and-shirt-image-transparent-aesthetic-clothes.png",
     },
     {
       id:5,
@@ -68,7 +68,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"http://clipart-library.com/images_k/transparent-clothing-pics/transparent-clothing-pics-6.png",
     },
     {
       id:8,

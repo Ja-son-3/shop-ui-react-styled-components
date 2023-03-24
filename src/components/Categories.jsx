@@ -8,11 +8,11 @@ const Container = styled.div`
     justify-content: space-between;
 `
 
-const Categories = ({}) => {
+const Categories = () => {
   return (
     <Container>
         {categories.map(item => (
-            <CategoryItem item={item}/>
+            <CategoryItem item={item} key={item.id}/>
         ))}
     </Container>
   )
